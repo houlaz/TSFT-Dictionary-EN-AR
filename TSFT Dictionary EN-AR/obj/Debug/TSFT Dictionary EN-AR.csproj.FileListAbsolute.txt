@@ -1,0 +1,10 @@
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\bin\Debug\TSFT Dictionary EN-AR.exe.config
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\bin\Debug\TSFT Dictionary EN-AR.exe
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\bin\Debug\TSFT Dictionary EN-AR.pdb
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.csprojAssemblyReference.cache
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT_Dictionary_EN_AR.FRM1.resources
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT_Dictionary_EN_AR.Properties.Resources.resources
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.csproj.GenerateResource.cache
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.csproj.CoreCompileInputs.cache
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.exe
+C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.pdb
