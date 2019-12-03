@@ -8,3 +8,13 @@ C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debu
 C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.csproj.CoreCompileInputs.cache
 C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.exe
 C:\Users\houar\source\repos\TSFT Dictionary EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.pdb
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\bin\Debug\TSFT Dictionary EN-AR.exe.config
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\bin\Debug\TSFT Dictionary EN-AR.exe
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\bin\Debug\TSFT Dictionary EN-AR.pdb
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.csprojResolveAssemblyReference.cache
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT_Dictionary_EN_AR.FRM1.resources
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT_Dictionary_EN_AR.Properties.Resources.resources
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.csproj.GenerateResource.Cache
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.csproj.CoreCompileInputs.cache
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.exe
+C:\Users\Hamid\Desktop\Git_Holaz\TSFT-Dictionary-EN-AR\TSFT Dictionary EN-AR\obj\Debug\TSFT Dictionary EN-AR.pdb

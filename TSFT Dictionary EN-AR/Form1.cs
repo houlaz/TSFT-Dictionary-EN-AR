@@ -16,5 +16,10 @@ namespace TSFT_Dictionary_EN_AR
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
